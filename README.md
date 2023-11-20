@@ -1,4 +1,4 @@
-# Article Analysis
+# Article Analysis [![License](https://img.shields.io/github/license/everdeep/SaucyNewz)](https://github.com/everdeep/SaucyNewz/blob/master/LICENSE)
 
 This part of the project deals with exploring the analysis of information using Natural Language Processing (NLP).
 
